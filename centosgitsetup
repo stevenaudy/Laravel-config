@@ -1,0 +1,11 @@
+## di web git
+Git -> Repository 
+
+## dilinux
+git clone https://github.com/stevenaudy/Laravel-config.git
+--> Move to folder
+git pull //ini untuk tarik latest code
+//git checkout -b "new-branch" //create new branch
+git status //cek status dri git
+git commit -m "message"
+git push origin master
