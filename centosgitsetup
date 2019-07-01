@@ -7,5 +7,6 @@ git clone https://github.com/stevenaudy/Laravel-config.git
 git pull //ini untuk tarik latest code
 //git checkout -b "new-branch" //create new branch
 git status //cek status dri git
+git add .
 git commit -m "message"
 git push origin master
